@@ -1,0 +1,20 @@
+{
+  "name": "mongoosepa1",
+  "version": "1.0.0",
+  "description": "Design a user management system for a web application to handle user authentication, role-based access control, and profile management. The system will use a MongoDB schema to store user data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "moongose": "^1.0.0",
+    "node": "^23.7.0",
+    "nodemon": "^3.1.9"
+  }
+}
